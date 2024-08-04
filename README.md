@@ -58,7 +58,7 @@ Na Segunda parte do projeto, simulei que uma pessoa queria visitar a cidade de C
 Depois do resultado, acrescentei mais dois pontos turísticos.
 
 **Pergunta dos pontos Turísticos de Curitiba acrescentando mais dois pontos turísticos**
-![Pergunta dos pontos Turísticos de Curitiba acrescentando mais dois pontos turísticos](https://github.com/GustavoSchiavinato/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/Inputs/04%20-%20Perguntando%20sobre%20os%20pontos%2)
+![Pergunta dos pontos Turísticos de Curitiba acrescentando mais dois pontos turísticos](https://github.com/GustavoSchiavinato/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/Inputs/04%20-%20Perguntando%20sobre%20os%20pontos%20tur%C3%ADstico%20de%20Curitiba%20acrescentando%20mais%20dois%20pontos%20tur%C3%ADsticos.jpeg)
 
 **Resposta dos pontos Turísticos de Curitiba acrescentando mais dois pontos turísticos**
 ![Resposta dos pontos Turísticos de Curitiba acrescentando mais dois pontos turísticos](https://github.com/GustavoSchiavinato/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/Outputs/04%20-%20Respondendo%20sobre%20os%20pontos%20tur%C3%ADstico%20de%20Curitiba%20acrescentando%20mais%20dois%20pontos%20tur%C3%ADsticos.jpeg)
