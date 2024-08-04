@@ -20,15 +20,15 @@ Perguntando sobre os símbolos
 
 Resposta sobre os símbolos
 
-![Resposta sobre os símbolos](https://github.com/GustavoSchiavinato/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/Inputs/02%20-%20Resposta%20sobre%20os%20s%C3%ADmbolos.jpeg)
+![Resposta sobre os símbolos](https://github.com/GustavoSchiavinato/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/Outputs/01%20-%20Resposta%20sobre%20os%20s%C3%ADmbolos.jpeg)
 
 
 Depois do Resultado a imagem, realizei mais uma pergunta sobre o mesmo tema.
 
 Perguntando sobre as certificações
 
-![Perguntando sobre as certificações](https://github.com/GustavoSchiavinato/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/Inputs/03%20-%20Perguntando%20sobre%20as%20certifica%C3%A7%C3%B5es.jpeg)
+![Perguntando sobre as certificações](https://github.com/GustavoSchiavinato/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/Inputs/02%20-%20Perguntando%20sobre%20as%20certifica%C3%A7%C3%B5es.jpeg)
 
 Resposta sobre as certificações
 
-![Resposta sobre as certificações](https://github.com/GustavoSchiavinato/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/Inputs/04%20-%20Resposta%20sobre%20as%20certifica%C3%A7%C3%B5es.jpeg)
+![Resposta sobre as certificações](https://github.com/GustavoSchiavinato/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/Outputs/02%20-%20Resposta%20sobre%20as%20certifica%C3%A7%C3%B5es.jpeg)
