@@ -14,7 +14,7 @@ Chegou a hora de você construir um portfólio ainda mais rico e impressionar fu
 
 ## O Projeto
 
-O projeto será feito em ## partes.
+O projeto será feito em 2 partes.
 
 ### Parte 1
 
@@ -66,3 +66,9 @@ Depois do resultado, acrescentei mais dois pontos turísticos.
 **Conclusão da Segunda Parte**
 
 Veriquei que a Ai fez o levamentamento dos pontos Turísticos de Curitiba.
+
+
+
+### Insights
+
+Na minha opinão, a IA pode ajudar muito a identificar e explicar os objetos dentro de uma imagem. E sobre os pontos turístico, a AI ponto definir pontos mais visitados de um cidade selecionada, neste caso foi a cidade de Curitiba.
