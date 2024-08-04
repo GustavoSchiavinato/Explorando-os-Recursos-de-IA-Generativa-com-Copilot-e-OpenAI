@@ -71,4 +71,6 @@ Veriquei que a Ai fez o levamentamento dos pontos Turísticos de Curitiba.
 
 ### Insights
 
-Na minha opinão, a IA pode ajudar muito a identificar e explicar os objetos dentro de uma imagem. E sobre os pontos turístico, a AI ponto definir pontos mais visitados de um cidade selecionada, neste caso foi a cidade de Curitiba.
+Na minha opinão, a IA pode ajudar muito a identificar e explicar os objetos dentro de uma imagem, e sobre os pontos turísticos, a IA pode definir quais pontos mais visitados de uma cidade selecionada, neste caso foi a cidade de Curitiba.
+
+A IA vai ajudar muito a vida humana.
